@@ -9,7 +9,7 @@ Repositório para armazenar resumos Git e GitHub do curso Versionamento de Códi
 
 ## 💻 Resumos das Aulas
 
-| Aulas | Resumos |
+| Aulas | Resumo |
 |-------| --------|
 | Gravando Alterações no Repositório Local |
 
